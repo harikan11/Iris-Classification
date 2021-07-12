@@ -1,2 +1,2 @@
 # Iris-Classification
-Classifying iris species 
+Classifying iris species using the sample data based on their given properties
